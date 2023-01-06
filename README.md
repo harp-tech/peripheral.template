@@ -4,7 +4,7 @@
 
 This is a template of what an Harp Peripheral resitory structure should be like.
 
-!["Peripheral PCB"](.Assets/pcb.png)
+!["Peripheral PCB"](Assets/pcb.png)
 
 ----
 
