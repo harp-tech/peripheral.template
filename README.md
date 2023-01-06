@@ -1,10 +1,10 @@
-# Peripheral - Speaker
+# Peripheral - Template
 
 ## General description
 
-This is a speaker breakout PCB that allows the control of an external speaker using a 5V PWM signal.
+This is a template of what an Harp Peripheral resitory structure should be like.
 
-!["Speaker PCB"](.Assets/pcb.png)
+!["Peripheral PCB"](.Assets/pcb.png)
 
 ----
 
@@ -14,25 +14,19 @@ This is a speaker breakout PCB that allows the control of an external speaker us
 
 | Peripheral HW Version 	| Board           	                                                | Board HW Version 	| Notes                            	|
 |-----------------------	|-----------------	                                                |------------------	|----------------------------------	|
-| **1.4.1**                 | [Device.Behavior](https://github.com/harp-tech/device.behavior) 	| > 2.0             |                                	|
-|                       	| [Device.Behavior](https://github.com/harp-tech/device.behavior)   | > 1.2             |                                	|
-| **2.0.0**                 | [Device.Behavior](https://github.com/harp-tech/device.behavior)   | > 2.0             | Can be powered with 3.3 or 5V 	|
+| **1.4.1**                 | [Device.Template](https://github.com/harp-tech/device.template) 	| > 2.0             |                                	|
+|                       	| [Device.Template](https://github.com/harp-tech/device.template)   | > 1.2             |                                	|
+| **2.0.0**                 | [Device.Template](https://github.com/harp-tech/device.template)   | > 2.0             | Can be powered with 3.3 or 5V 	|
 |                       	|                 	                                                |                  	|                                  	|
 ----
 
 ## Key Features
 
-- Plays sound
-- Potentiometer to modulate audio amplitude
-
-----
+- 
 
 ## Connectivity
 
-- 1x GND pin
-- 1x Signal pin (5V)
-
-----
+-
 
 ## Licensing
 
