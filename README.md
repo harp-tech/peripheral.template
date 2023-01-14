@@ -1,4 +1,4 @@
-## Harp Template
+## Harp Peripheral
 
 ## General description
 
