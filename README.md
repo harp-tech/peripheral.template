@@ -1,4 +1,4 @@
-# Peripheral - Template
+## Harp Template
 
 ## General description
 
